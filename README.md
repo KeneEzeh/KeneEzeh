@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KeneEzeh
-- 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning Backend development
+- 👀 I’m a Full stack web developer
+- 🌱 I’m currently working with Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
